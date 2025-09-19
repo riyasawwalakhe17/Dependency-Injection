@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-aop-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-aspects-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-beans-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-context-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-context-indexer-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-context-support-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-core-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-expression-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-instrument-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/Spring/spring-framework-5.0.5.RELEASE/ioc required/spring-jcl-5.0.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
