@@ -15,13 +15,10 @@ public class Test {
 public static void main(String[] args) {
 		
 		
-		Resource rc = new ClassPathResource("beans.xml");
-		
-		BeanFactory b = new XmlBeanFactory(rc);
+		ApplicationContext ap = new ClassPathXmlApplicationContext("beans.xml");
 			
 			
-			Student s = (Student) b.getBean("stu");
-			System.out.println(s.getRollNo());
-			System.out.println(s.getName());
+			Student s = (Student) ap.getBean("stu");
+			s.m1();
 	}
 }
