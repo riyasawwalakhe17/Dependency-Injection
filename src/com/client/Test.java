@@ -19,6 +19,7 @@ public static void main(String[] args) {
 			
 			
 			Student s = (Student) ap.getBean("stu");
-			s.m1();
+			System.out.println(s.getRollNo());
+			System.out.println(s.getName());
 	}
 }

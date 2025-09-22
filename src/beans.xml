@@ -6,8 +6,8 @@
 
     <bean id="stu" class="com.model.Student">
     
-    <constructor-arg name="rollNo" value="101"></constructor-arg>
-    <constructor-arg name="name" value="Riya"></constructor-arg>
+    <property name="rollNo" value="101"></property>
+    <property name="name" value="Riya"></property>
         
 </bean>
 </beans>
